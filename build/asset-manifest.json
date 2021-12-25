@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/MyProfile/static/css/main.902a29cf.chunk.css",
+    "main.js": "/MyProfile/static/js/main.72954af1.chunk.js",
+    "main.js.map": "/MyProfile/static/js/main.72954af1.chunk.js.map",
+    "runtime-main.js": "/MyProfile/static/js/runtime-main.000f6c46.js",
+    "runtime-main.js.map": "/MyProfile/static/js/runtime-main.000f6c46.js.map",
+    "static/js/2.0ed6862c.chunk.js": "/MyProfile/static/js/2.0ed6862c.chunk.js",
+    "static/js/2.0ed6862c.chunk.js.map": "/MyProfile/static/js/2.0ed6862c.chunk.js.map",
+    "index.html": "/MyProfile/index.html",
+    "static/css/main.902a29cf.chunk.css.map": "/MyProfile/static/css/main.902a29cf.chunk.css.map",
+    "static/js/2.0ed6862c.chunk.js.LICENSE.txt": "/MyProfile/static/js/2.0ed6862c.chunk.js.LICENSE.txt",
+    "static/media/aws.08dffd14.png": "/MyProfile/static/media/aws.08dffd14.png",
+    "static/media/background.622818e3.jpeg": "/MyProfile/static/media/background.622818e3.jpeg",
+    "static/media/css.19c8605d.png": "/MyProfile/static/media/css.19c8605d.png",
+    "static/media/doodlersclub.e9636f65.jpg": "/MyProfile/static/media/doodlersclub.e9636f65.jpg",
+    "static/media/fitnessfinder.e86c6d10.jpg": "/MyProfile/static/media/fitnessfinder.e86c6d10.jpg",
+    "static/media/font-awesome.css": "/MyProfile/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/git.7d664489.png": "/MyProfile/static/media/git.7d664489.png",
+    "static/media/healthcdb.61ab4d67.jpg": "/MyProfile/static/media/healthcdb.61ab4d67.jpg",
+    "static/media/java.32872008.png": "/MyProfile/static/media/java.32872008.png",
+    "static/media/js.ba0a9285.png": "/MyProfile/static/media/js.ba0a9285.png",
+    "static/media/mysql.17ec0131.png": "/MyProfile/static/media/mysql.17ec0131.png",
+    "static/media/nedb.3c5ab99a.png": "/MyProfile/static/media/nedb.3c5ab99a.png",
+    "static/media/node.e71346fe.png": "/MyProfile/static/media/node.e71346fe.png",
+    "static/media/php.2c2c5009.png": "/MyProfile/static/media/php.2c2c5009.png",
+    "static/media/profile.206f7b27.jpg": "/MyProfile/static/media/profile.206f7b27.jpg",
+    "static/media/python.ec327b95.png": "/MyProfile/static/media/python.ec327b95.png",
+    "static/media/react.20adfb35.png": "/MyProfile/static/media/react.20adfb35.png",
+    "static/media/stockanalytics.6486cdc3.jpg": "/MyProfile/static/media/stockanalytics.6486cdc3.jpg",
+    "static/media/svn.a33b68ed.png": "/MyProfile/static/media/svn.a33b68ed.png",
+    "static/media/vvora.4fb70608.jpeg": "/MyProfile/static/media/vvora.4fb70608.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.000f6c46.js",
+    "static/js/2.0ed6862c.chunk.js",
+    "static/css/main.902a29cf.chunk.css",
+    "static/js/main.72954af1.chunk.js"
+  ]
+}
